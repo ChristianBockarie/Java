@@ -1,0 +1,17 @@
+public class ScannerClass {
+	
+	private static Scanner input = new Scanner(System.in);
+
+
+	public static void main(String[] args) {
+		//ask user for the name and print Good morning ____
+		
+		
+		System.out.println("Please enter your name");
+		
+		String name=input.nextLine();
+		
+		System.out.println("Good morning "+name);
+		
+	}
+}
