@@ -19,10 +19,19 @@ public class ReverseString {
 		String reverse1="";
 		
 		for (int i=original.length()-1; i>=0; i--) {
-			reverse1=reverse+original.charAt(i);
+			reverse1=reverse1+original.charAt(i);
 		}
 		System.out.println("Reversed String is: "+reverse1);
+		
+		
 		//using substring()
+		//String rev="Today is Java Class";
+		String rev1="";
+		
+		for(int i=original.length(); i>0; i--) {
+			rev1=rev1+original.substring(i-1, i);
+		}
+		System.out.println("Reversed String is: "+rev1);
 	}
 
 }
