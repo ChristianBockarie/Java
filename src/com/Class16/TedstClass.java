@@ -17,8 +17,8 @@ public class TedstClass {
 		input.hasNextInt();
 
 		/* methods are 2 types: 
-		 * Built-in: String/Scanner class methods, --> limited &
-		 * read only User defined: we create them ---> unlimited and modifiable
+		 * Built-in: String/Scanner class methods, --> limited &read only 
+		 * User defined: we create them ---> unlimited and modifiable
 		 */
 
 	}
