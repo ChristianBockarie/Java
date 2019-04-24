@@ -23,3 +23,7 @@ public class Employee {
 		System.out.println("I am a default method");
 	}
 }
+
+//int char float double long short boolean byte
+//String 
+		
