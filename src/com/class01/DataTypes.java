@@ -1,4 +1,4 @@
-package com.class01;
+package com.Class01;
 
 public class DataTypes {
 

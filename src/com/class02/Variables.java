@@ -1,4 +1,4 @@
-package com.class02;
+package com.Class02;
 
 public class Variables {
 

@@ -10,6 +10,7 @@ package com.Class30;
 			names.add("Jack");
 			names.add("Nick");
 			names.add("Sam");
+	
 			// names.add(123); not valid since we have generic arrayList of a type of String
 		
 			//non generic arrayList- we can store different types of Objects

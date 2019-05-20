@@ -1,4 +1,4 @@
-package com.class17_21;
+package com.Class17_21;
 
 public class ScannerMethod {
 

@@ -1,4 +1,4 @@
-package com.class04;
+package com.Class04;
 
 public class NestedIf {
 	public static void main (String[] args) {
